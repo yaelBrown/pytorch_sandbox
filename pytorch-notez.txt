@@ -1,1 +1,41 @@
 Pytorch
+
+AI > ML > DL
+
+Companion Book - https://www.learnpytorch.io/
+
+Googles Machine learning Rulebook - https://developers.google.com/machine-learning/guides/rules-of-ml/
+  "If you can build a simple rule-based system that doesn't require machine learning, do that." 
+  ML is not a solve all for everything. 
+
+DL is good for:
+  problems with long lists of rules
+  continually changing environments
+  discovering insights within large collections of data
+
+use stand algos for structured data (shallow algoritms)
+  Gradient Boosted Machine/dmlc xgboost
+    used a lot of in production algos
+  Random forest
+  Gradient boosted models
+  Naive Bayes
+  KNN
+  SVM - support vector machine
+
+dl is better for unstructured data
+  neural networks
+    Take inputs and turn it into numbers
+
+    input later
+    middle/hidden laters
+    output layer
+
+learning paradigms
+  supervised
+  unsupervised
+  transfer learning
+  reinforcement learning
+
+AI learning - https://paperswithcode.com
+
+TPU - Tensor Processing Unit
